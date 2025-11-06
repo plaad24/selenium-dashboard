@@ -1,0 +1,21 @@
+# Core dashboard
+streamlit==1.28.0
+
+# Data handling
+pandas==2.1.1
+numpy==1.26.0
+
+# Plotting and visualization
+plotly==5.16.1
+matplotlib==3.8.0
+seaborn==0.12.3
+
+# HTTP requests
+requests==2.31.0
+
+# Microsoft authentication
+msal==1.25.0
+
+# Optional: parsing HTML emails (if needed)
+beautifulsoup4==4.12.2
+lxml==4.9.3
