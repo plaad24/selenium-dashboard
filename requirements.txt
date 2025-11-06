@@ -1,0 +1,14 @@
+streamlit==1.28.0
+pandas==2.1.1
+numpy==1.26.0
+plotly==5.16.1
+matplotlib==3.8.0
+seaborn==0.12.3
+requests==2.31.0
+msal==1.25.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+rich==14.2.0
+markdown-it-py==2.2.0
+mdurl==0.1.2
+pygments==2.19.2
